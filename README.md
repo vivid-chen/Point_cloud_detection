@@ -15,7 +15,7 @@ Download Hardware Support Packages from Matlab about Kinect V2
 
 Test
 ---
-
+![Tow Object](https://github.com/vivid-chen/Point_cloud_detection/blob/master/image/test2.png)
 You can run main.m to view the result.Enjoy it! :D
 
 gratitude
